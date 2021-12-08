@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamellionaire
+- 👋 Hi, I’m @jrj-sys
 - 👀 I’m interested in Full-Stack Development 
 - 🌱 I’m currently learning JavaScript, HTML, and CSS
 - 💞️ I’m looking to collaborate on beginner-friendly projects
