@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jamel</h1>
 <h3 align="center">An aspirant full stack engineer from California. Based in Austin, TX.</h3>  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrj-sys&show_icons=true&theme=groovebox_light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrj-sys&show_icons=true&theme=gruvbox_light)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrj-sys&layout=compact&theme=groovebox_light)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrj-sys&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
 ```Connect with me:```
 <p align="left">
