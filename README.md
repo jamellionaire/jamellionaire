@@ -1,19 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jamel</h1>
 <h3 align="center">An aspirant full stack engineer from California. Based in Austin, TX.</h3>
 
-- 🔭 I’m currently working on [Discord RPG bots](https://github.com/jrj-sys/jest-another-RPG)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrj-sys)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning **Express.js**
-
-- 👯 I’m looking to collaborate on **open source back-end applications**
-
-- 🤝 I’m looking for help with **branching off into Java and other strict OOP languages**
-
-- 👨‍💻 All of my projects are available at [https://bit.ly/3re5yKL](https://bit.ly/3re5yKL)
-
-- 💬 Ask me about **anything!**
-
-- 📫 How to reach me **jamesjamel99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
