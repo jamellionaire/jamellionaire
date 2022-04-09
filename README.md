@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrj-sys)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="left">Connect with me:</h3>
+```md Connect with me:```
 <p align="left">
 <a href="https://twitter.com/jrj_sys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jrj_sys" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jamelrjames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamelrjames" height="30" width="40" /></a>
