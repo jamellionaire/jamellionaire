@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jamel</h1>
-<h3 align="center">An aspirant full stack engineer from California.</h3>  
+<h1 align="center">Hi, I'm Jamel!</h1>
+<p align="center">A passionate and aspirant full stack engineer based in Austin, TX.</p>
+<p align="center">I ❤️ back-end.</p>
+
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrj-sys&show_icons=true&theme=gruvbox_light)
 
