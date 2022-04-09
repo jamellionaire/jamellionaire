@@ -4,9 +4,14 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrj-sys&show_icons=true&theme=gruvbox_light)
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=jrj-sys&show_icons=true&theme=gruvbox_light">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrj-sys&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrj-sys&layout=gruvbox_light">
+</p>
+
 
 ```Connect with me:```
 <p align="left">
