@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jamel!</h1>
-<p align="center">A passionate and aspirant full stack engineer based in Austin, TX.</p>
+<p align="center">A full stack engineer based in Austin, TX.</p>
 <p align="center">I ❤️ back-end.</p>
 
 ##
