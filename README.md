@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jamel!</h1>
 <p align="center">An anspirant full stack engineer based in Austin, TX.</p>
-<p align="center">I ❤️ back-end.</p>
+<p align="center">❤️er of all things back-end.</p>
 
 ##
 <p align="center">Connect with me!</p>
